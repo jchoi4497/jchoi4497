@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Frontend Developer passionate about React, JavaScript, and building clean, user-friendly interfaces.
 <!--
 **jchoi4497/jchoi4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
