@@ -9,7 +9,8 @@ I'm a Frontend Developer passionate about React, JavaScript, and building clean,
 - ⚡ Fun fact: ...
   
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-choi-89026b198)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>](https://www.linkedin.com/in/jonathan-choi-89026b198/)
+
 https://www.linkedin.com/in/jonathan-choi-89026b198/
 https://jonathanchoi-portfolio.netlify.app/
 
