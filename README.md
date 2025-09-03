@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm a Frontend Developer passionate about React, JavaScript, and building clean, user-friendly interfaces.
-<!--
-**jchoi4497/jchoi4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [...](https://github.com/jchoi4497/Gym-Guide)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+<!--
+**jchoi4497/jchoi4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
