@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm a Frontend Developer passionate about React, JavaScript, and building clean, user-friendly interfaces.
-- 🔭 I’m currently working on [...](https://github.com/jchoi4497/Gym-Guide)
+- 🔭 I’m currently working on (https://github.com/jchoi4497/Gym-Guide)
 - 🌱 I’m currently learning **Javascript, React.js, OpenAI**
-- 👯 I’m looking to collaborate on OpenSource
+- 👯 I’m looking to collaborate on **OpenSource**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: jchoi4497@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
 ## Connect with me
 https://www.linkedin.com/in/jonathan-choi-89026b198/
 https://jonathanchoi-portfolio.netlify.app/
