@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a Frontend Developer passionate about React, JavaScript, and building clean, user-friendly interfaces.
-- 🔭 I’m currently working on [windborneProject][(https://github.com/jchoi4497/windborneProject)]
+- 🔭 I’m currently working on [windborneProject](https://github.com/jchoi4497/windborneProject)
 - 🌱 I’m currently learning **Javascript, React.js, OpenAI, Vue.js**
 - 👯 I’m looking to collaborate on **OpenSource**
 - 📫 How to reach me: jchoi4497@gmail.com
